@@ -1,18 +1,17 @@
-# spark-lms
+# Abhishek - LMS
 Library Management System developed in Spring Boot.
 
 
 #### What does it offer?
-It allows user to manage Members, Categories, Books and Issueing Books.
+**Effortless Management**: Easily add, delete, and update member and book details.
+**Categorization**: Efficiently categorize books for easy navigation and retrieval.
+**Streamlined Processes**: Simplify issue and return processes for members and administrators.
 
 
 ### Setup project
+
 #### Setup database
-Project requires MySql database. The version of the database is prefered to be 8.0 or later
-#### Setup code
-Create a .war file of project and deploy it on a webserver like Apache tomcat.
-
-
+The project requires a MySql database. The version of the database is preferred to be 8.0 or later
 ### Login
-for login you may use username as 'admin' and password as 'admin'.
+For login, you may use username as 'admin' and password as 'admin'.
 
